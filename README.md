@@ -14,11 +14,7 @@ Simulacija koristi nasumično generisane ulazne podatke:
 - Transportni troškovi između svake lokacije i kupca (bazirano na udaljenosti)
 - Potražnja kupaca
 
-U poređenju se analiziraju:
-- Vremenska složenost oba pristupa
-- Broj iteracija ili čvorova koje je algoritam obradio
-- Kvaliteta rješenja (razlika u vrijednosti ciljne funkcije)
-
+U poređenju se analizira vremenska složenost oba pristupa.
 ## Pokretanje
 
 Za pokretanje koda potrebno je imati Python 3 i sljedeće biblioteke:
